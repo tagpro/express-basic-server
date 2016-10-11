@@ -1,0 +1,26 @@
+{
+  "name": "express-basic-server",
+  "version": "1.0.0",
+  "description": "Node/Express js basic server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tagpro/express-basic-server.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "findjsk@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tagpro/express-basic-server/issues"
+  },
+  "homepage": "https://github.com/tagpro/express-basic-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
